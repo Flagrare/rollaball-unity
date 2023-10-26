@@ -1,5 +1,5 @@
 # Roll-a-ball
-Roll-a-ball Unity game that follows a [learing tutorial](https://learn.unity.com/project/roll-a-ball).
+Roll-a-ball Unity game that follows a [learning tutorial](https://learn.unity.com/project/roll-a-ball).
 
 You can play the game in [itch.io](https://flagrare.itch.io/roll-a-ball) or [Unity Play](https://play.unity.com/mg/other/roll-a-balll-microgame)
 
